@@ -1,5 +1,5 @@
 LANG=id-Indonesia
-
+<pre>
 Preset Audio untuk Easyeffects dan Audacious (~/.config).
 Kompatibilitas versi pada Debian 12.** Bookworm atau setara dan mungkin bisa diatasnya.
 
@@ -15,4 +15,4 @@ Pada Audcious cukup aktifkan plugin:
 Easyeffects, cukup buka aplikasi lalu cari dan terapkan preset bernama "tmp".
 
 Test menggunakan Headset Lenovo TH-10 koneksi SBC bluetooth, jadi mungkin hasil audio akan terdengar berbeda pada perangkat lain :)
-    
+</pre>
