@@ -1,0 +1,71 @@
+{
+    "output": {
+        "bass_enhancer#0": {
+            "amount": 4.999999999999998,
+            "blend": -10.0,
+            "bypass": false,
+            "floor": 35.0,
+            "floor-active": true,
+            "harmonics": 9.999999999999995,
+            "input-gain": 0.0,
+            "output-gain": 0.0,
+            "scope": 175.0
+        },
+        "blocklist": [],
+        "compressor#0": {
+            "attack": 20.0,
+            "boost-amount": 6.0,
+            "boost-threshold": -72.0,
+            "bypass": false,
+            "dry": -100.0,
+            "hpf-frequency": 10.0,
+            "hpf-mode": "off",
+            "input-gain": 0.0,
+            "knee": -6.0,
+            "lpf-frequency": 20000.0,
+            "lpf-mode": "off",
+            "makeup": 0.0,
+            "mode": "Downward",
+            "output-gain": 0.0,
+            "ratio": 4.0,
+            "release": 4000.0,
+            "release-threshold": -100.0,
+            "sidechain": {
+                "lookahead": 20.0,
+                "mode": "Peak",
+                "preamp": -4.999999999999998,
+                "reactivity": 250.0,
+                "source": "Middle",
+                "type": "Feed-back"
+            },
+            "threshold": -12.0,
+            "wet": 0.0
+        },
+        "plugins_order": [
+            "bass_enhancer#0",
+            "stereo_tools#0",
+            "compressor#0"
+        ],
+        "stereo_tools#0": {
+            "balance-in": 0.0,
+            "balance-out": 0.0,
+            "bypass": false,
+            "delay": -3.469446951953614e-18,
+            "input-gain": 0.0,
+            "middle-level": 2.7755575615628914e-17,
+            "middle-panorama": 0.0,
+            "mode": "LR > LR (Stereo Default)",
+            "mutel": false,
+            "muter": false,
+            "output-gain": 0.0,
+            "phasel": false,
+            "phaser": false,
+            "sc-level": 1.0,
+            "side-balance": 0.0,
+            "side-level": -3.000000000000001,
+            "softclip": false,
+            "stereo-base": 0.30000000000000004,
+            "stereo-phase": 0.0
+        }
+    }
+}
